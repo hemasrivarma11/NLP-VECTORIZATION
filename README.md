@@ -20,7 +20,7 @@ The project is implemented using Python and focuses on spam classification using
 
 ## 📂 Dataset
 
-- Dataset Used: **SMS Spam Classification Dataset**
+- Dataset Used: **SMS Spam Classification Synthetic Dataset**
 - Task: Binary classification (Spam vs Ham)
 - Preprocessed using standard NLP techniques
 
